@@ -1,0 +1,17 @@
+h1 {
+    color:rgb(154, 97, 187);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+img {
+    width: 60%;
+    border-radius: 8px;
+    border: 8px solid rgb(154, 97, 187);
+    display: block;
+    margin: auto;
+}
